@@ -1,0 +1,20 @@
+.odd {
+    background-color:lightpink;
+    font-family:"Times New Roman, Verdana, DejaVu Sans"
+}
+.third{
+    font-size:24px;
+}
+
+#second {
+    color:blue;
+    font-size:36px;
+}
+
+#fourth {
+    color:black;
+    background-color:lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
+
